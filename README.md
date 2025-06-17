@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
   <link rel="stylesheet" href="style.css">
   <meta charset="UTF-8">
@@ -13,66 +13,63 @@
   <nav id="navbar"> 
     <ul>  
       <li><button id="close-sidebar-button" onclick="closeSidebar()" aria-label="close sidebar"><svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="40px" fill="#c9c9c9"><path d="m480-444.62-209.69 209.7q-7.23 7.23-17.5 7.42-10.27.19-17.89-7.42-7.61-7.62-7.61-17.7 0-10.07 7.61-17.69L444.62-480l-209.7-209.69q-7.23-7.23-7.42-17.5-.19-10.27 7.42-17.89 7.62-7.61 17.7-7.61 10.07 0 17.69 7.61L480-515.38l209.69-209.7q7.23-7.23 17.5-7.42 10.27-.19 17.89 7.42 7.61 7.62 7.61 17.7 0 10.07-7.61 17.69L515.38-480l209.7 209.69q7.23 7.23 7.42 17.5.19 10.27-7.42 17.89-7.62 7.61-17.7 7.61-10.07 0-17.69-7.61L480-444.62Z"/></svg></button></li>
-      <li class="home-li"><a class="active-link" href="index.html">Home</a></li>
-      <li class="home-li"><a class="active-link" href="#contact">Contacts</a></li>
-      <li class="home-li"><a class="active-link" href="#contact">Other</a></li>
+      <li class="home-li"><a class="active-link" href="index.html">Главная</a></li>
+      <li class="home-li"><a class="active-link" href="#contact">Контакты</a></li>
+      <li class="home-li"><a class="active-link" href="#contact">Прочее</a></li>
     </ul>
   </nav>
 
   <div id="overlay" onclick="closeSidebar()" aria-hidden="true"></div>
-
+  
   
 
   <header>
     <h1>Green Filter Recycling</h1>
     <p>экологически чистые технологии, создающие многоразовые ресурсы для будущего</p>
   </header>
-
+  <p><h2 style="font-size:6vmin;margin-left: 5%;">Переработка Использованных Масляных Фильтров</h2></p>
   <section>
-    <h2>Recycling Used Oil Filters</h2>
     <p>
-      In Russia, the volume of used oil filters for personal and light commercial vehicles (LCV’s) is estimated to be approximately 109 million per year. 
-      This equates to approximately 30,000 tons (27,224 metric tons or 27,224,000 kilos) of steel and 9,984 tons (9,885,148 liters) of engine oil per year.
+      В России объем использованных масляных фильтров для личного и легкого коммерческого транспорта (LCV) оценивается примерно в 109 миллионов в год. 
+      Это соответствует примерно 30 000 тонн (27 224 метрических тонн или 27 224 000 килограммов) стали и 9 984 тоннам (9 885 148 литров) моторного масла в год.
     </p>
     <p>
-      Only 5-7 percent of Municipal Solid Waste (MSW) is being recycled, which means that more than 90% of refuse is sent to landfills and unauthorized dumps,
-      including the illegal mixing and disposing of used oil filters in with regular garbage which directly impacts the environment.
+      Только 5-7 процентов твердых бытовых отходов (ТБО) перерабатывается, а это значит, что более 90% мусора отправляется на свалки и нелегальные свалочные участки.
+      Это включает незаконное смешивание и утилизацию использованных масляных фильтров с обычным мусором, что напрямую влияет на окружающую среду.
     </p>
     <p>
-      Oil filters contain precious resources that can be recycled.
+      Масляные фильтры содержат ценные ресурсы, которые можно переработать.
     </p>
     <p>
-      Used filters are a Class III hazardous waste product and a significant threat to the environment when disposed of improperly. 
-      They trap contaminants like fuel, oil, and heavy metals that can damage the environment if not properly handled. 
-      Even after hot draining, they contain about 10 fl. oz. (295 ml or .295 liters) of oil. 
-      Filters cannot just enter general waste streams - careful compliance is essential.
+      Использованные масляные фильтры относятся к отходам III класса опасности и представляют серьёзную угрозу для окружающей среды при неправильной утилизации. Они задерживают загрязнители, такие как топливо, масло и тяжёлые металлы, которые могут нанести вред окружающей среде, если не будут должным образом обезврежены. Даже после горячей сушки в фильтре остаётся около 295 мл (0,295 литра) масла. Такие фильтры нельзя просто выбрасывать вместе с обычным мусором — необходима строгая экологическая дисциплина и соблюдение требований обращения с отходами.
     </p>
     <p>
-      You can receive serious fines and penalties if you are improperly disposing of oil filters. 
-      Used oil filters are filled with oil, sludge are hazardous waste. That means that special processes for collection and disposal must be undertaken. 
-      To sustainably solve these challenges, GFR provides comprehensive disposal solutions that ensure that all filters and oil is recovered and recycled.
+      Неправильная утилизация масляных фильтров может привести к серьёзным штрафам и санкциям. 
+      Использованные фильтры содержат остатки масла и шлама и относятся к опасным отходам. 
+      Это означает, что для их сбора и утилизации необходимо применять специальные процессы. 
+      Для устойчивого решения этих проблем компания GFR предлагает комплексные решения по утилизации, которые обеспечивают полное извлечение и переработку как самих фильтров, так и содержащегося в них масла.
     </p>
     <p>
-      In our facility, collected filters are compressed into ‘briquettes’ under high pressure, reducing them to up to 20% of their original size and recovering 
-      at least 95% of the recyclable oil. Oil extracted through this process is sent to used oil refiners and repurposed, ensuring that your oil is disposed of 
-      in the most environmentally beneficial way.
+      На нашем предприятии собранные масляные фильтры сжимаются под высоким давлением в так называемые «брикетты», что позволяет уменьшить их объём до 20% от исходного размера и извлечь не менее 95% пригодного к переработке масла. 
+      Извлечённое масло отправляется на переработку на специализированные предприятия, где ему придают новое назначение, обеспечивая максимально экологически безопасную утилизацию.
     </p>
     <p>
-      The briquettes enter an oven where they are exposed to high temperatures for a pre-determined amount of time during which the paper filter and rubber seal ring 
-      are reduced to inert ash which can safely be sent to landfill. The metal is sent for further recycling.
+      Брикеты поступают в печь, где в течение определённого времени подвергаются воздействию высоких температур. 
+      В результате бумажный фильтрующий элемент и резиновое уплотнительное кольцо превращаются в инертный пепел, который можно безопасно отправить на полигон. 
+      Металлические части направляются на дальнейшую переработку.
     </p>
   </section>
 
   <section>
-    <h2>Responsible Used Filter Recovery and Recycling Program</h2>
+    <h2>Программа Ответственного Сбора и Переработки Использованных Масляных Фильтров</h2>
     <p>
-      We provide environmentally safe collection containers and a used oil filter pick-up and disposal program designed to keep you in compliance with federal regulations at all times. 
-      We offer set pick-up schedules ranging from weekly to monthly based on your site requirements. During used oil filter collections, we will exchange your filled containers 
-      with empties and transport them to an approved processing facility.
+      Мы предоставляем экологически безопасные контейнеры для сбора и реализуем программу вывоза и утилизации использованных масляных фильтров, разработанную с учётом всех требований федеральных нормативов. 
+      Мы предлагаем фиксированные графики вывоза — от еженедельного до ежемесячного — в зависимости от потребностей вашей площадки. 
+      Во время сбора использованных фильтров мы заменим заполненные контейнеры на пустые и доставим их на сертифицированное перерабатывающее предприятие.
 
 </p>
     <p>
-      Call, or write us to arrange a consultation to determine the best recycling plan for your business!
+      Позвоните нам или напишите, чтобы договориться о консультации и определить наилучший план переработки для вашего бизнеса!
     </p>
     
   </section>
